@@ -1,4 +1,4 @@
-## Episode - Understanding why merge conflicts occur and how to resolve them.
+## This Episode - Understanding why merge conflicts occur and how to resolve them.
 
 > This guide is mostly in English but is aimed for Thai speakers.
 
@@ -54,16 +54,22 @@ body {
 
 As long as two lines differ in the same place, Git will stop and ask you to resolve, regardless of branches or authors.
 
-## Now that we understand why conflicts occurs, let's learn how to resolve them.
+---
 
-> Recommend watching at 1.2x speed or faster if you want! %%
+### TL;DR - Here is a different example.
+
+<img src="why-merge-conflict.png" alt="Description of your image" width="80%">
+
+---
+
+## Now that we understand why conflicts occur, let's learn how to resolve them.
+
+> Recommend watching at 1.2x speed or faster if you prefer!
 
 Video Part 1 (5 mins) - https://www.loom.com/share/1c172bcdd0644d06a4f489e87390ede6?sid=81343050-74f8-4790-ae38-7beeb630a8d6
 
 Video Part 2 (4 mins) - https://www.loom.com/share/d971cac7f9e34a9f9f091c06967ba86a?sid=4820fb60-7506-4024-9051-abe5682504b2
 
-TL;DR
-
-<img src="why-merge-conflict.png" alt="Description of your image" width="80%">
+---
 
 Congratulations! You are one step closer to Git proficiency 🙌
