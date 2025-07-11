@@ -71,7 +71,7 @@ As long as two lines differ in the same place, Git will stop and ask you to reso
   Video Part 1 (5 mins)
 </a>
 <br>
-<a href="https://www.loom.com/share/1c172bcdd0644d06a4f489e87390ede6?sid=81343050-74f8-4790-ae38-7beeb630a8d6" target="_blank" rel="noopener noreferrer">
+<a href="https://www.loom.com/share/d971cac7f9e34a9f9f091c06967ba86a?sid=a095532c-2ecd-43fb-8e22-5bf437210628" target="_blank" rel="noopener noreferrer">
   Video Part 2 (4 mins)
 </a>
 </section>
